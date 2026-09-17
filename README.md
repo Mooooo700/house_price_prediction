@@ -1,3 +1,4 @@
+<img width="1332" height="401" alt="Screenshot 2026-09-17 083352" src="https://github.com/user-attachments/assets/a309791e-fe64-4154-8fab-20697bc8781e" />
 # House Price Prediction
 
 An end-to-end machine learning web app that predicts property prices in India, from raw data to a trained model served through a REST API and a React frontend.
