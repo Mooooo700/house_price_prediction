@@ -1,4 +1,4 @@
-<img width="1332" height="401" alt="Screenshot 2026-09-17 083352" src="https://github.com/user-attachments/assets/a309791e-fe64-4154-8fab-20697bc8781e" />
+
 # House Price Prediction
 
 An end-to-end machine learning web app that predicts property prices in India, from raw data to a trained model served through a REST API and a React frontend.
@@ -177,6 +177,7 @@ Response:
 | Random Forest | 1,270,824 | 4,233,270 | 0.911 |
 
 Random Forest was chosen as the final model since it achieves lower error (MAE, RMSE) and a higher R² than Linear Regression, meaning it explains more of the variance in property prices and gives more accurate predictions.
+<img width="1332" height="401" alt="Screenshot 2026-09-17 083352" src="https://github.com/user-attachments/assets/a309791e-fe64-4154-8fab-20697bc8781e" />
 
 ## Screenshots
 
