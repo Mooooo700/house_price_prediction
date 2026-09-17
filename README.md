@@ -168,13 +168,14 @@ Response:
 ```json
 { "predicted_price": 4500000.0 }
 ```
-
 ## Model Metrics
 
 | Model | MAE | RMSE | R² |
 |---|---|---|---|
-| Linear Regression | _fill in after running the notebook_ | | |
-| Random Forest | _fill in after running the notebook_ | | |
+| Linear Regression | 4,571,537 | 7,542,830 | 0.717 |
+| Random Forest | 1,270,824 | 4,233,270 | 0.911 |
+
+Random Forest was chosen as the final model since it achieves lower error (MAE, RMSE) and a higher R² than Linear Regression, meaning it explains more of the variance in property prices and gives more accurate predictions.
 
 ## Screenshots
 
