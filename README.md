@@ -1,3 +1,6 @@
+<img width="1433" height="565" alt="Screenshot 2026-09-18 144504" src="https://github.com/user-attachments/assets/92a689d6-59fa-4dea-a0a8-5e2c0c9ab43d" />
+<img width="1715" height="892" alt="Screenshot 2026-09-18 144452" src="https://github.com/user-attachments/assets/383320d8-dbeb-433d-965e-f1409422211b" />
+<img width="1567" height="903" alt="Screenshot 2026-09-18 144205" src="https://github.com/user-attachments/assets/2ca82312-6476-46c6-8743-40bad76487e7" />
 
 # House Price Prediction
 
@@ -181,4 +184,6 @@ Random Forest was chosen as the final model since it achieves lower error (MAE, 
 
 ## Screenshots
 
-_Add screenshots of the running app here._
+<img width="1433" height="565" alt="Screenshot 2026-09-18 144504" src="https://github.com/user-attachments/assets/92a689d6-59fa-4dea-a0a8-5e2c0c9ab43d" />
+<img width="1715" height="892" alt="Screenshot 2026-09-18 144452" src="https://github.com/user-attachments/assets/383320d8-dbeb-433d-965e-f1409422211b" />
+<img width="1567" height="903" alt="Screenshot 2026-09-18 144205" src="https://github.com/user-attachments/assets/2ca82312-6476-46c6-8743-40bad76487e7" />
