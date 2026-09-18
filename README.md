@@ -1,7 +1,3 @@
-<img width="1433" height="565" alt="Screenshot 2026-09-18 144504" src="https://github.com/user-attachments/assets/92a689d6-59fa-4dea-a0a8-5e2c0c9ab43d" />
-<img width="1715" height="892" alt="Screenshot 2026-09-18 144452" src="https://github.com/user-attachments/assets/383320d8-dbeb-433d-965e-f1409422211b" />
-<img width="1567" height="903" alt="Screenshot 2026-09-18 144205" src="https://github.com/user-attachments/assets/2ca82312-6476-46c6-8743-40bad76487e7" />
-
 # House Price Prediction
 
 An end-to-end machine learning web app that predicts property prices in India, from raw data to a trained model served through a REST API and a React frontend.
@@ -183,7 +179,6 @@ Random Forest was chosen as the final model since it achieves lower error (MAE, 
 <img width="1332" height="401" alt="Screenshot 2026-09-17 083352" src="https://github.com/user-attachments/assets/a309791e-fe64-4154-8fab-20697bc8781e" />
 
 ## Screenshots
-
-<img width="1433" height="565" alt="Screenshot 2026-09-18 144504" src="https://github.com/user-attachments/assets/92a689d6-59fa-4dea-a0a8-5e2c0c9ab43d" />
-<img width="1715" height="892" alt="Screenshot 2026-09-18 144452" src="https://github.com/user-attachments/assets/383320d8-dbeb-433d-965e-f1409422211b" />
 <img width="1567" height="903" alt="Screenshot 2026-09-18 144205" src="https://github.com/user-attachments/assets/2ca82312-6476-46c6-8743-40bad76487e7" />
+<img width="1715" height="892" alt="Screenshot 2026-09-18 144452" src="https://github.com/user-attachments/assets/383320d8-dbeb-433d-965e-f1409422211b" />
+<img width="1433" height="565" alt="Screenshot 2026-09-18 144504" src="https://github.com/user-attachments/assets/92a689d6-59fa-4dea-a0a8-5e2c0c9ab43d" />
